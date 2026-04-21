@@ -72,27 +72,7 @@ const validator = new FormValidator(form, {
 ## 🛠 Available Rules
 
 | Rule | Description | Example |
-| :--- | :--- | :--- |
-| `required` | Field cannot be empty. | `data-validate="required"` |
-| `email` | Must be a valid email format. | `data-validate="email"` |
-| `min:X` | Minimum length of X characters. | `data-validate="min:8"` |
-| `max:X` | Maximum length of X characters. | `data-validate="max:50"` |
-| `numeric` | Must contain only numbers. | `data-validate="numeric"` |
-
-## 🤝 Contributing
-Feel free to open PRs to add more Regex rules!
-
-## 📄 License
-Released under the [MIT License](LICENSE).
-
-
----
-### 🏢 About Stackaura
-This project is proudly maintained backed and sponsored by **[Stackaura](https://www.stackaura.com/)**.
-We specialize in building high-performance web applications, scalable SaaS architectures, and premium digital solutions.
-👉 **[Visit Stackaura to supercharge your next project!](https://www.stackaura.com/)**
-
-
+| :
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -110,3 +90,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
