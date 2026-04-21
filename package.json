@@ -1,0 +1,19 @@
+{
+  "name": "js-form-validator-pro",
+  "version": "1.0.0",
+  "description": "A lightweight, zero-dependency vanilla JS form validator plugin.",
+  "main": "src/validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "validation",
+    "form",
+    "validator",
+    "vanillajs",
+    "zero-dependency"
+  ],
+  "author": "Ahmar Hussain",
+  "license": "MIT"
+}
